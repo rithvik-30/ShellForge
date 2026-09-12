@@ -39,3 +39,11 @@ ShellForge is a Unix-like shell developed as part of the Operating Systems and S
 - clear
 - exit
 - Environment variables
+
+## Week 6 Features
+
+- Signal handling
+- SIGINT support
+- SIGCHLD support
+- Zombie cleanup
+- Shell survives Ctrl+C
